@@ -6,13 +6,14 @@
 }
 
 body {
-  background-color: #ffffff;
+  background-color: #fff;
 }
 
 a {
-  color: #0088cc;
+  color: #08c;
   text-decoration: none;
 }
-button{
-  border:none
+
+button {
+  border: none;
 }
