@@ -1,2 +1,2 @@
 # Apple.com
-This is an Apple clone page
+This is an Apple.com clone page
