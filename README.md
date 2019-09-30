@@ -1,4 +1,5 @@
 # Apple.com
+
 This is an Apple.com clone page created solely by me
 ## Topic: Backgrounds and Gradients
 * Positioning on this page has been achieved using flexbox,no major framework was used.
