@@ -12,4 +12,6 @@ This is an Apple.com clone page created solely by me
 * Github Pages
 * The Odin Project
 * Microverse PathWright
-# You can find the project [here](https://tripple-a.github.io/Apple.com/)
+
+
+You can find the project [here](https://tripple-a.github.io/Apple.com/)
